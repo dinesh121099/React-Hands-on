@@ -1,2 +1,2 @@
-# proj1
+# React Hands-on
 frontend development
